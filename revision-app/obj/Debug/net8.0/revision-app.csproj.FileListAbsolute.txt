@@ -1,0 +1,14 @@
+C:\Mern\concepts\revision-app\bin\Debug\net8.0\revision-app.exe
+C:\Mern\concepts\revision-app\bin\Debug\net8.0\revision-app.deps.json
+C:\Mern\concepts\revision-app\bin\Debug\net8.0\revision-app.runtimeconfig.json
+C:\Mern\concepts\revision-app\bin\Debug\net8.0\revision-app.dll
+C:\Mern\concepts\revision-app\bin\Debug\net8.0\revision-app.pdb
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.AssemblyInfoInputs.cache
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.AssemblyInfo.cs
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.csproj.CoreCompileInputs.cache
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.dll
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\refint\revision-app.dll
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.pdb
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\revision-app.genruntimeconfig.cache
+C:\Mern\concepts\revision-app\obj\Debug\net8.0\ref\revision-app.dll
